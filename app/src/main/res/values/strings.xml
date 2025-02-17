@@ -1,0 +1,27 @@
+
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="scd_name_input_hint">Name</string>
+    <string name="fst_name_input_hint">First Name</string>
+    <string name="expertise_input_hint">Area of expertise</string>
+    <string name="phone_number_input_hint">Phone Number</string>
+    <string name="bday_input_hint">Birthday date</string>
+    <string name="enter_button_hint">Enter</string>
+    <string name="dialog_sure">Are you sure ?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="call_button">Call</string>
+    <string name="error_phone_number">Error, uncorrect phone number</string>
+    <string name="denied_permission">Permission denied</string>
+    <string name="accept_button" translatable="false">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="train_activity_btn">TRAIN ACTIVITY</string>
+    <string name="calendar_activity_btn">CALENDAR ACTIVITY</string>
+    <string name="call_activity_btn">CALL ACTIVITY</string>
+    <string name="return_home">Return</string>
+    <string name="departure_text">Departure</string>
+    <string name="arrival_text">Arrival</string>
+    <string name="pfp_desc">Profile picture</string>
+
+
+</resources>

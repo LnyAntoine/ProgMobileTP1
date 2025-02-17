@@ -1,0 +1,25 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="scd_name_input_hint">Nom</string>
+    <string name="fst_name_input_hint">Prénom</string>
+    <string name="expertise_input_hint">Domaine de compétences</string>
+    <string name="phone_number_input_hint">Numéro de téléphone</string>
+    <string name="bday_input_hint">Date de naissance</string>
+    <string name="enter_button_hint">Entrer</string>
+    <string name="dialog_sure">Êtes vous sûr ?</string>
+    <string name="dialog_yes">Oui</string>
+    <string name="dialog_cancel">Abandonner</string>
+    <string name="call_button">Appeler</string>
+    <string name="error_phone_number">Erreur, numéro incorrect</string>
+    <string name="denied_permission">Permission refusée</string>
+    <string name="cancel_button">Retour</string>
+    <string name="train_activity_btn">TRAIN</string>
+    <string name="calendar_activity_btn">CALENDRIER</string>
+    <string name="call_activity_btn">APPEL</string>
+    <string name="return_home">retour</string>
+    <string name="departure_text">Départ</string>
+    <string name="arrival_text">Arrivée</string>
+    <string name="pfp_desc">Photo de profil</string>
+</resources>

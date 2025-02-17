@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <!-- Couleur de fond (mettre transparent si non nécessaire) -->
+    <solid android:color="@android:color/transparent"/>
+
+    <!-- Arrondi des coins -->
+    <corners android:radius="25dp"/>
+
+    <!-- Contour -->
+    <stroke
+        android:width="3dp"
+        android:color="@color/white"/> <!-- Change la couleur ici -->
+</shape>

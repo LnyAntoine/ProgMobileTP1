@@ -1,0 +1,18 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/phone"
+        android:enabled="true"
+        android:icon="@drawable/modern_phone"
+        android:title="Telephone"/>
+    <item
+        android:id="@+id/train"
+        android:enabled="true"
+        android:icon="@drawable/train_icon"
+        android:title="Train"/>
+    <item
+        android:id="@+id/calendar"
+        android:enabled="true"
+        android:icon="@drawable/calendar_icon"
+        android:title="Calendrier"/>
+</menu>
