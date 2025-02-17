@@ -1,4 +1,3 @@
-
 <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
     <solid android:color="@color/teal_200"/> <!-- Couleur de fond -->
     <corners android:radius="5dp"/> <!-- Rayon des coins -->
